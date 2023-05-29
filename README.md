@@ -9,6 +9,4 @@ I love acting as Public Speaker in that industry to let as many as possible part
 
 Should a CTO write code? At least, I do so enjoy my personal preferences: 
 
-![](https://github-readme-stats.vercel.app/api?username=dei79&count_private=true&show_icons=true&theme=transparent)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dei79&layout=compact&theme=transparent)
